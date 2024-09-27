@@ -57,6 +57,6 @@ In conclusion, this project provides valuable insights and a predictive model fo
 ## Author
 - Arnav Goel
 - arnav9368543702@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
+- [LinkedIn](https://www.linkedin.com/in/arnav-goel-491103262/)
 - [GitHub](https://github.com/arnav108276)
 
